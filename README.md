@@ -6,3 +6,5 @@ The files I have written are Game.py and physics_objects.py.
 Game.py is the code that organizes the game.
 
 The others have been provided to me.
+
+The code that needs to be run is in Game.py.
